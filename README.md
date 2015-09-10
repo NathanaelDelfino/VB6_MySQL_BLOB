@@ -1,9 +1,9 @@
 VB6-apps
 =======================
 
-- [VB - BLOB(MYSQL)](https://github.com/NathanaelDelfino/VB6/tree/master/VB6_MySQL_BLOB)
+- [VB - BLOB(MYSQL)](https://github.com/NathanaelDelfino/VB6_MySQL_BLOB)
 
-Requirements
+Requirimentos
 =======================
 
 - Visual Basic 6
